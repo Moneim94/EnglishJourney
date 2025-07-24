@@ -1,0 +1,21 @@
+{
+  "TopMenu": {
+    "Title": "English Journey",
+    "Home": "Home",
+    "Features": "Features",
+    "Contact": "Contact",
+    "About": "About"
+  },
+  "Footer": {
+    "CopyRight": "© {{year}} Moneim. All  rights  reserved."
+  },
+  "Home": {
+    "FirstCard": "",
+    "SecondCard": "",
+    "ThirdCard": "",
+    "FourthCard": ""
+  },
+  "addUser":{
+   "FormTitle":"Create New User"
+  }
+}
